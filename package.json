@@ -1,0 +1,20 @@
+{
+  "name": "curso-react-marzo-2023-midudev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abelcerezuela/curso-react-marzo-2023-midudev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abelcerezuela/curso-react-marzo-2023-midudev/issues"
+  },
+  "homepage": "https://github.com/abelcerezuela/curso-react-marzo-2023-midudev#readme"
+}
